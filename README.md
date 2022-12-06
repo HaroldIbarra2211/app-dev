@@ -1,5 +1,7 @@
 # app-dev
 My first repository
-## My favorite series currently
-> Cyberpunk: Edgerunners
-Cyberpunk: Edgerunners is a tv series produced by Studio TRIGGER and published by netflix. It is set Night City, a dystopian futuristic capitalistic city where everything and everyone is against everybody and everybody is controlled by corporations. The story follows a young boy named David Martinez and his goal of being one of night city's living legends. He wants to become an *Edgerunner*, someone who augments their bodies with technology to do legal and illegal businesses. This series is a 10 episode thrill ride that I highly recommend.
+# Cyberpunk:Edgerunners
+> The main sypnosis is: 
+*In a Futuristic distopian cyty overrun by corruption, crime, and cybernetic implants, an impulsive but talented street kid named David, after losing everything he has in a drive-by shooting, makes the choice to survive on the wrong side of the law as an **"edgerunner"**: a high-tech, black-market mercenary also known as a "cyberpunk". They are called edgerunners as they are "living on the edge", meaning that at any point of their job they may die, metaphorically falling off the edge.*
+
+**Cyberpunk: Edgerunners**
